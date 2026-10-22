@@ -1,2 +1,2 @@
-# Food-collage-
+# Food-collage
 A food collage site 
