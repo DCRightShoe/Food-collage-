@@ -1,0 +1,36 @@
+Attached Element Context from Integrated Browser
+
+Element: body
+
+URL: http://127.0.0.1:3000/frontendwebdevelopment?vscode-livepreview=true
+
+HTML Path: body
+
+Outer HTML:
+```html
+<body><h1>Diba Nandini</h1>
+<p>Hello, my name is Diba Nandini. My birthday is in a week.</p>
+
+<h2>About Me</h2>
+<p>I am 18, I am a girl, and I'm Bengali and Indian and American</p>
+
+<h3>Email</h3>
+<p>dibanandini14@gmail.com</p></body>
+```
+
+Dimensions:
+- top: 0px
+- left: 0px
+- width: 324px
+- height: 659px
+
+CSS:
+```css
+
+
+/* Resolved values */
+margin: 8px /*UA*/;
+display: block;
+height: 643px;
+width: 308px;
+```
